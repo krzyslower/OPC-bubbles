@@ -1,0 +1,38 @@
+{
+
+	"name": "Public Culture", "size": 599999,
+	"children": [
+	{
+		"name": "public Imaginaries", "size": 99999,
+		"children": [
+		{"name": "Shared (open) spaces are essential for organized and incidental gatherings of people.", "size": 999}
+		]
+	},
+	{
+		"name": "public Events", "size": 99999,
+		"children": [
+		{"name": "Test", "size": 999}
+		]
+	},
+	{
+		"name": "public Things", "size": 99999,
+		"children": [
+		{"name": "Test", "size": 999}
+		]
+	},
+	{
+		"name": "public Practices", "size": 99999,
+		"children": [
+		{"name": "Test", "size": 999}
+		]
+	},
+	{
+		"name": "public Spaces", "size": 99999,
+		"children": [
+		{"name": "Test", "size": 999}
+		]
+	}
+
+
+]
+}

@@ -1,0 +1,13 @@
+{
+
+	"name": "Public Culture", "size": 599999, "color": "#bebebe",
+	"children": [
+		
+		{"name": "public Imaginaries", "size": 99999, "color": "#ebd95f"},
+		{"name": "public Events", "size": 99999, "color": "#9cd468"},
+		{"name": "public Things", "size": 99999, "color": "#f0ab79"},
+		{"name": "public Practices", "size": 99999, "color": "#67d7c4"},
+		{"name": "public Spaces", "size": 99999, "color": "#78a2e5"}
+
+]
+}
